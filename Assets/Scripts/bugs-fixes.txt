@@ -1,0 +1,3 @@
+current known bugs
+1. can tap the death menu buttons while the fullscreen ad is shown, not sure if editor bug or if appears on device too, possible fix disable buttons during ad display, not sure how.
+2. parallax scrolling is twitching, possible fix is to follow https://www.youtube.com/watch?v=QkisHNmcK7Y
